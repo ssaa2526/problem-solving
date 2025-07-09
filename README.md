@@ -124,7 +124,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [14+29 = 43]
     "<hr/>\n",
     "<br>\n",
     "\n",
@@ -162,7 +162,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [68-50 = 18]
     "\n",
     "<hr/>\n",
     "<br>\n",
@@ -205,7 +205,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [4*18 = 72]
     "<hr/><br>\n",
     "\n",
     "__[문제 4: 숲 속의 마법 연못]__\n",
@@ -240,7 +240,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [172/4 = 43)
     "<hr/><br>\n",
     "\n",
     "__[문제 5: 사원의 입구]__\n",
@@ -268,7 +268,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [541]
     "<hr/><br>\n",
     "\n",
     "__[문제 6: 비밀의 동굴]__\n",
@@ -300,7 +300,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [43**0.5 = 6.557438524302]
     "<hr/><br>\n",
     "\n",
     "__[문제 7: 해변의 파도]__\n",
@@ -331,7 +331,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [5/20 = 0.25)
     "<hr/><br>\n",
     "\n",
     "__[문제 8: 폭포의 높이]__\n",
@@ -369,7 +369,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [0.5*9.8*((2+3)**2) = 122]
     "<hr/>\n",
     "<br>\n",
     "\n",
@@ -410,7 +410,7 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
+   "source": [32 - 128 = 96]
     "<hr/><br>\n",
     "\n",
     "당신은 생존했습니다 !!!!!!!!!!\n",
